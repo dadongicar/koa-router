@@ -1,5 +1,5 @@
 {
-  "name": "koa-router",
+  "name": "@dadongicar/router",
   "description": "Router middleware for koa. Provides RESTful resource routing.",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
     "lib"
   ],
   "author": "Alex Mingoia <talk@alexmingoia.com>",
-  "version": "7.4.0",
+  "version": "1.0.0",
   "keywords": [
     "koa",
     "middleware",
